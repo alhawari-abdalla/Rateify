@@ -1,0 +1,29 @@
+{
+  "name": "alhawari/rateify",
+  "description": "A simple Laravel package for adding rating functionality (1–5 stars) to any model.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alhawari-Code",
+      "email": "alhawari.officail@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Alhawari\\Rateify\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Alhawari\\Rateify\\RateifyServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=8.0",
+    "illuminate/support": "^10.0"
+  }
+}
