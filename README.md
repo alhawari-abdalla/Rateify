@@ -158,11 +158,11 @@ composer test
 
 ## 🤝 Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Please see contact at alhawari.officail@gmail.com   .
 
 ## 🔐 Security
 
-If you discover any security related issues, please email security@example.com instead of using the issue tracker.
+If you discover any security related issues, please email alhawari.officail@gmail.com  or use issue tracker.
 
 ## 📝 License
 
@@ -170,9 +170,9 @@ The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 ## 📚 Credits
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/alhawari-abdalla)
 - [All Contributors](../../contributors)
 
 ---
 
-⭐ If you find this package useful, please consider giving it a star on [GitHub](https://github.com/yourusername/rateify).
+⭐ If you find this package useful, please consider giving it a star on [GitHub](https://github.com/alhawari-abdalla/rateify).
